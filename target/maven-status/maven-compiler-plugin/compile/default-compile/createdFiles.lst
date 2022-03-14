@@ -1,0 +1,7 @@
+com/mycompany/iterator/RecordIterator.class
+com/mycompany/iterator/IteratorPattern.class
+com/mycompany/iterator/Record.class
+com/mycompany/iterator/RecordCollection.class
+com/mycompany/iterator/RecordStore.class
+com/mycompany/iterator/IteratorPatternDemo.class
+com/mycompany/iterator/PersonalRecordCollection.class
